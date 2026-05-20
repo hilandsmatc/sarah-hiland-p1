@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gatsby-plugin-styled-components": "^6.16.0"
+  }
+}
